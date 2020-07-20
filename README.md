@@ -1,6 +1,13 @@
 # CPPND: Capstone Snake Game Example
 
 This is a starter repo for the Capstone project in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). The code for this repo was inspired by [this](https://codereview.stackexchange.com/questions/212296/snake-game-in-c-with-sdl) excellent StackOverflow post and set of responses.
+
+In this Snake Game, consists of two levels.In the First Level  the Snake grows in size by eating food, you need to make sure Snake does not eat itself.
+Once you cross the score of 10 , you are upgraded to Second level, which consists of Green Food(carrot) and Red Food(Corona).Eating the Green Food helps the player to gain points.
+However eating the Red Food ,the Player looses Points.
+Once the overall score hits negative or the Snake eats itself the game is over.
+
+
 <img src="Snake-Game-Level-1.gif"/>
 
 <img src="Snake_Game_.gif"/>
