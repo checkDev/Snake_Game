@@ -6,10 +6,12 @@ This is a starter repo for the Capstone project in the [Udacity C++ Nanodegree P
 
 
 The necessary rubric my submission satisfies (Besides the mandatory):
+
 1.The project demonstrates an understanding of C++ functions and control structures.
 2.The project reads data from a file and process the data, or the program writes data to a file.
 3.The project accepts user input and processes the input.
-4.The project uses Object Oriented Programming techniques.5.Classes use appropriate access specifiers for class members.
+4.The project uses Object Oriented Programming techniques.
+5.Classes use appropriate access specifiers for class members.
 6.Class constructors utilize member initialization lists.
 7.Classes abstract implementation details from their interfaces.
 8.Classes encapsulate behavior.
